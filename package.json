@@ -3,7 +3,8 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/NAGASURYA143/-tradingSurya",
+  "homepage": "https://nagasurya143.github.io/-tradingSurya",
+
   "scripts": {
     "dev": "vite",
     "build": "vite build",
